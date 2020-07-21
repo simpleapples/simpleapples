@@ -2,5 +2,5 @@
 
 ### Hello, world!
 
-:man_technologist Full Stackoverflow Engineer
-:gear Code in Python and Go
+:man_technologist: Full Stackoverflow Engineer
+:gear: Code in Python and Go
